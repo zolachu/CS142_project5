@@ -1,0 +1,22 @@
+.comments {
+    background-color: azure;
+    text-decoration-line: none;
+}
+
+img {
+    opacity: 1;
+    display: block;
+    width: 15em;
+    height: auto;
+    transition: .5s ease;
+    backface-visibility: hidden;
+    outline-color: black;
+    outline-width: medium;
+    outline: medium;
+    border-color:black;
+}
+
+
+.cs142-photos-buttons:hover {
+    position: relative;
+}

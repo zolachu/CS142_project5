@@ -1,0 +1,26 @@
+.cs142-list-name {
+    font-family: fantasy;
+    font-weight: 400;
+    text-decoration: none;
+    text-decoration-line: none;
+    color: blue;
+    font-weight: 600;
+    background-color: antiquewhite;
+    background-position: center;
+    text-decoration-line: none;
+    padding: 5px;
+}
+
+.cs142-list-name:hover {
+    font-size: 1.2em;
+
+    color: crimson;
+    text-decoration-line: none;
+}
+
+.usersList {
+    font-size: 30px;
+    font-weight: 900;
+    text-decoration-line: none;
+}
+
